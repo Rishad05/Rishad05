@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rishad05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Iftakher Uddin Rishad
+- 👀 I’m interested in MERN
+- 🌱 I’m also currently learning about MERN
+<!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me (iu.rishad5@gmail.com)
 
 <!---
 Rishad05/Rishad05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
