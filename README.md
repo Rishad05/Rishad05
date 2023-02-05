@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iftakher Uddin Rishad
 - 👀 I’m interested in Backend Development
-- 🌱 I’m also currently learning about PHP-with Laravel Framework
+- 🌱 I’m also currently working on PHP - with Laravel Framework
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me (iu.rishad5@gmail.com)
 
