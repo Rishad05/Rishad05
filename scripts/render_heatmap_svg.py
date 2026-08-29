@@ -24,13 +24,13 @@ from datetime import date, datetime, timedelta
 FONT_STACK = "Inter, ui-sans-serif, 'Segoe UI', system-ui, sans-serif"
 MONO_STACK = "JetBrains Mono, ui-monospace, Consolas, monospace"
 
-# Gold gradient ramp for contribution levels (0 .. 4).
+# Cyan ramp for contribution levels (0 .. 4).
 LEVELS = [
-    "#14161c",   # level 0 — void
-    "#3a2c12",   # level 1
-    "#6b4a15",   # level 2
-    "#a17c1c",   # level 3
-    "#e9c256",   # level 4 — bright gold
+    "#0f141b",   # level 0 — void
+    "#12323f",   # level 1
+    "#0d5f7a",   # level 2
+    "#168fae",   # level 3
+    "#2ed9f5",   # level 4 — bright cyan
 ]
 
 
@@ -109,13 +109,13 @@ def main() -> int:
     )
     p.append(f"""<defs>
   <linearGradient id="hmBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0c0c0e"/><stop offset="0.6" stop-color="#09090b"/><stop offset="1" stop-color="#050506"/>
+    <stop offset="0" stop-color="#0b0f14"/><stop offset="0.6" stop-color="#080c11"/><stop offset="1" stop-color="#04060a"/>
   </linearGradient>
   <linearGradient id="hmTitle" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#d4af37"/><stop offset="1" stop-color="#fdf4c9"/>
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#cdf6ff"/>
   </linearGradient>
   <linearGradient id="hmBar" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#6b4a15"/><stop offset="0.5" stop-color="#e9c256"/><stop offset="1" stop-color="#6b4a15"/>
+    <stop offset="0" stop-color="#0d5f7a"/><stop offset="0.5" stop-color="#2ed9f5"/><stop offset="1" stop-color="#0d5f7a"/>
   </linearGradient>
   <path id="hmCell" d="M4 0 h5 a4 4 0 0 1 4 4 v5 a4 4 0 0 1 -4 4 h-5 a4 4 0 0 1 -4 -4 v-5 a4 4 0 0 1 4 -4 z"/>
   <filter id="hmShadow" x="-10%" y="-10%" width="120%" height="120%">
@@ -124,14 +124,14 @@ def main() -> int:
   <style>
     @keyframes hmgrid {{ from {{ opacity: 0; }} to {{ opacity: 1; }} }}
     .g-cell {{ animation: hmgrid .8s ease-out both; }}
-    .g-cell:hover {{ stroke: #ffe9a8; stroke-width: 1; }}
+    .g-cell:hover {{ stroke: #cdf6ff; stroke-width: 1; }}
   </style>
 </defs>""")
 
     # --------------------------------------------------------------- card
     p.append(f"""
 <g filter="url(#hmShadow)">
-  <rect x="4" y="4" width="{W-8}" height="{totalH-8}" rx="18" fill="url(#hmBg)" stroke="#2b2b31" stroke-width="1"/>
+  <rect x="4" y="4" width="{W-8}" height="{totalH-8}" rx="18" fill="url(#hmBg)" stroke="#1a3a45" stroke-width="1"/>
 </g>
 <g>
   <text x="{gridX + center_extra}" y="42" font-family="{FONT_STACK}" font-size="26" font-weight="800" fill="url(#hmTitle)" letter-spacing="1">Contribution Activity</text>
@@ -144,9 +144,9 @@ def main() -> int:
     cx = gridX + center_extra + GRID_W
     for label, value in stats_chips:
         tw = len(value) * 7.2 + 34
-        p.append(f'<rect x="{cx - tw}" y="{chip_y}" width="{tw}" height="30" rx="8" fill="#101114" stroke="#26262b" stroke-width="1"/>')
+        p.append(f'<rect x="{cx - tw}" y="{chip_y}" width="{tw}" height="30" rx="8" fill="#101114" stroke="#16303a" stroke-width="1"/>')
         p.append(f'<text x="{cx - tw + 12}" y="{chip_y + 12}" font-family="{MONO_STACK}" font-size="8.5" fill="#77777f" letter-spacing="0.5">{label}</text>')
-        p.append(f'<text x="{cx - tw + 12}" y="{chip_y + 25}" font-family="{MONO_STACK}" font-size="13" font-weight="700" fill="#e6c24f">{value}</text>')
+        p.append(f'<text x="{cx - tw + 12}" y="{chip_y + 25}" font-family="{MONO_STACK}" font-size="13" font-weight="700" fill="#49d9f0">{value}</text>')
         cx -= tw + 10
 
     # ------------------------------------------------------------- month labels

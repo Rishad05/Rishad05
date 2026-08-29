@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:d4af37,25:6b4a15,55:0d0d0d,100:0d0d0d&height=180&section=header&text=THE%20CIPHER%20STACK&fontSize=42&fontColor=d4af37&animation=twinkling&desc=Iftakher%20Uddin%20Rishad%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=15&descAlignY=64&descAlign=center" width="100%" alt="Cinematic Venom Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:22d3ee,25:0d5c78,55:0b0f14,100:0b0f14&height=180&section=header&text=IFTAKHER%20UDDIN%20RISHAD&fontSize=40&fontColor=22d3ee&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Dhaka%2C%20Bangladesh&descSize=15&descAlignY=64&descAlign=center" width="100%" alt="Cinematic Venom Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishad05&style=for-the-badge&color=d4af37&label=PROFILE+VIEWS&abbreviated=false" alt="Profile views" />
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-2ea44f?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=githubsponsors&logoColor=2ea44f" alt="Open to work" />
-  <img src="https://img.shields.io/badge/DHAKA,_BANGLADESH-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=googlemaps&logoColor=febc2e" alt="Location: Dhaka, Bangladesh" />
+  <img src="https://komarev.com/ghpvc/?username=Rishad05&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS&abbreviated=false" alt="Profile views" />
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-2ea44f?style=for-the-badge&labelColor=0b0f14&color=0b0f14&logo=githubsponsors&logoColor=2ea44f" alt="Open to work" />
+  <img src="https://img.shields.io/badge/DHAKA,_BANGLADESH-0b0f14?style=for-the-badge&labelColor=0b0f14&color=0b0f14&logo=googlemaps&logoColor=22d3ee" alt="Location: Dhaka, Bangladesh" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&multiline=true&width=920&height=72&lines=Turning+caffeine+into+clean+code.;Commit+early,+refactor+often.;Elegant+systems+from+simple+pieces.;Building+the+web,+one+API+at+a+time.;Talk+is+cheap.+Ship+it." alt="Typing SVG — developer quotes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=920&height=72&lines=Turning+caffeine+into+clean+code.;Commit+early,+refactor+often.;Elegant+systems+from+simple+pieces.;Building+the+web,+one+API+at+a+time.;Talk+is+cheap.+Ship+it." alt="Typing SVG — developer quotes" />
 </p>
 
 ---
 
-<h3 align="center"><code>The Cipher Stack</code></h3>
+<h3 align="center"><code>Iftakher Uddin Rishad</code></h3>
 
 <p align="center">
   <samp>Software Engineer · Dhaka, Bangladesh</samp>
@@ -54,18 +54,18 @@
       <br />
       <samp>Human Resource Management for <b>Godrej Bangladesh</b></samp>
       <br /><br />
-      <a href="https://github.com/goldeninfotech/godrej-backend"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Fgodrej--backend-d4af37?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Repo" /></a>
-      <a href="https://github.com/goldeninfotech/godrej-backend/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/godrej-backend?style=for-the-badge&color=d4af37&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Stars" /></a>
-      <a href="https://github.com/goldeninfotech/godrej-backend/commits/main"><img src="https://img.shields.io/github/last-commit/goldeninfotech/godrej-backend?style=for-the-badge&color=2ea44f&labelColor=0d0d0d&label=ACTIVE" alt="Last commit" /></a>
+      <a href="https://github.com/goldeninfotech/godrej-backend"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Fgodrej--backend-22d3ee?style=for-the-badge&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Repo" /></a>
+      <a href="https://github.com/goldeninfotech/godrej-backend/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/godrej-backend?style=for-the-badge&color=22d3ee&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Stars" /></a>
+      <a href="https://github.com/goldeninfotech/godrej-backend/commits/main"><img src="https://img.shields.io/github/last-commit/goldeninfotech/godrej-backend?style=for-the-badge&color=2ea44f&labelColor=0b0f14&label=ACTIVE" alt="Last commit" /></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Rishad05/shopilo-ecom"><b><samp>E-Commerce</samp></b></a>
       <br />
       <samp>E-commerce platform for <b>Shopilo</b></samp>
       <br /><br />
-      <a href="https://github.com/Rishad05/shopilo-ecom"><img src="https://img.shields.io/badge/Repo-Rishad05%2Fshopilo--ecom-d4af37?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Repo" /></a>
-      <a href="https://github.com/Rishad05/shopilo-ecom/stargazers"><img src="https://img.shields.io/github/stars/Rishad05/shopilo-ecom?style=for-the-badge&color=d4af37&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Stars" /></a>
-      <img src="https://img.shields.io/github/languages/top/Rishad05/shopilo-ecom?style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=LANG" alt="Language" />
+      <a href="https://github.com/Rishad05/shopilo-ecom"><img src="https://img.shields.io/badge/Repo-Rishad05%2Fshopilo--ecom-22d3ee?style=for-the-badge&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Repo" /></a>
+      <a href="https://github.com/Rishad05/shopilo-ecom/stargazers"><img src="https://img.shields.io/github/stars/Rishad05/shopilo-ecom?style=for-the-badge&color=22d3ee&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/Rishad05/shopilo-ecom?style=for-the-badge&color=0b0f14&labelColor=0b0f14&label=LANG" alt="Language" />
     </td>
   </tr>
   <tr>
@@ -74,18 +74,18 @@
       <br />
       <samp>Event management system for <b>Desievent Go</b></samp>
       <br /><br />
-      <a href="https://github.com/DesiEventsGO/desieventsgo-backend"><img src="https://img.shields.io/badge/Repo-DesiEventsGO%2Fdesieventsgo--backend-d4af37?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Repo" /></a>
-      <a href="https://github.com/DesiEventsGO/desieventsgo-backend/stargazers"><img src="https://img.shields.io/github/stars/DesiEventsGO/desieventsgo-backend?style=for-the-badge&color=d4af37&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Stars" /></a>
-      <img src="https://img.shields.io/github/languages/top/DesiEventsGO/desieventsgo-backend?style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=LANG" alt="Language" />
+      <a href="https://github.com/DesiEventsGO/desieventsgo-backend"><img src="https://img.shields.io/badge/Repo-DesiEventsGO%2Fdesieventsgo--backend-22d3ee?style=for-the-badge&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Repo" /></a>
+      <a href="https://github.com/DesiEventsGO/desieventsgo-backend/stargazers"><img src="https://img.shields.io/github/stars/DesiEventsGO/desieventsgo-backend?style=for-the-badge&color=22d3ee&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/DesiEventsGO/desieventsgo-backend?style=for-the-badge&color=0b0f14&labelColor=0b0f14&label=LANG" alt="Language" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/goldeninfotech/fuel-pass-backend"><b><samp>Fuel Pass</samp></b></a>
       <br />
       <samp><b>Fuel Pass</b> — fuel distribution backend</samp>
       <br /><br />
-      <a href="https://github.com/goldeninfotech/fuel-pass-backend"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Ffuel--pass--backend-d4af37?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Repo" /></a>
-      <a href="https://github.com/goldeninfotech/fuel-pass-backend/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/fuel-pass-backend?style=for-the-badge&color=d4af37&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Stars" /></a>
-      <a href="https://img.shields.io/github/languages/top/goldeninfotech/fuel-pass-backend"><img src="https://img.shields.io/github/languages/top/goldeninfotech/fuel-pass-backend?style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=LANG" alt="Language" /></a>
+      <a href="https://github.com/goldeninfotech/fuel-pass-backend"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Ffuel--pass--backend-22d3ee?style=for-the-badge&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Repo" /></a>
+      <a href="https://github.com/goldeninfotech/fuel-pass-backend/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/fuel-pass-backend?style=for-the-badge&color=22d3ee&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/goldeninfotech/fuel-pass-backend?style=for-the-badge&color=0b0f14&labelColor=0b0f14&label=LANG" alt="Language" />
     </td>
   </tr>
   <tr>
@@ -94,9 +94,9 @@
       <br />
       <samp><b>Moitri Somiti</b> — co-operative society platform</samp>
       <br /><br />
-      <a href="https://github.com/goldeninfotech/moitri"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Fmoitri-d4af37?style=for-the-badge&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Repo" /></a>
-      <a href="https://github.com/goldeninfotech/moitri/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/moitri?style=for-the-badge&color=d4af37&labelColor=0d0d0d&logo=github&logoColor=d4af37" alt="Stars" /></a>
-      <a href="https://github.com/goldeninfotech/moitri"><img src="https://img.shields.io/github/languages/top/goldeninfotech/moitri?style=for-the-badge&color=0d0d0d&labelColor=0d0d0d&label=LANG" alt="Language" /></a>
+      <a href="https://github.com/goldeninfotech/moitri"><img src="https://img.shields.io/badge/Repo-goldeninfotech%2Fmoitri-22d3ee?style=for-the-badge&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Repo" /></a>
+      <a href="https://github.com/goldeninfotech/moitri/stargazers"><img src="https://img.shields.io/github/stars/goldeninfotech/moitri?style=for-the-badge&color=22d3ee&labelColor=0b0f14&logo=github&logoColor=22d3ee" alt="Stars" /></a>
+      <img src="https://img.shields.io/github/languages/top/goldeninfotech/moitri?style=for-the-badge&color=0b0f14&labelColor=0b0f14&label=LANG" alt="Language" />
     </td>
     <td align="center" width="50%">
       <samp>🚀 More builds incoming...</samp>
@@ -143,10 +143,10 @@
 <h3 align="center">Achievements</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pair_Extraordinaire-c71585?style=for-the-badge&labelColor=0d0d0d&color=c71585&logo=github&logoColor=c71585" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Pull_Shark-a371f7?style=for-the-badge&labelColor=0d0d0d&color=a371f7&logo=github&logoColor=a371f7" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/YOLO-ff0000?style=for-the-badge&labelColor=0d0d0d&color=ff0000&logo=github&logoColor=ff0000" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Starstruck-d4af37?style=for-the-badge&labelColor=0d0d0d&color=d4af37&logo=github&logoColor=d4af37" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-c71585?style=for-the-badge&labelColor=0b0f14&color=c71585&logo=github&logoColor=c71585" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Pull_Shark-a371f7?style=for-the-badge&labelColor=0b0f14&color=a371f7&logo=github&logoColor=a371f7" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/YOLO-ff0000?style=for-the-badge&labelColor=0b0f14&color=ff0000&logo=github&logoColor=ff0000" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Starstruck-d4af37?style=for-the-badge&labelColor=0b0f14&color=d4af37&logo=github&logoColor=d4af37" alt="Starstruck" />
 </p>
 
 ---
@@ -155,18 +155,18 @@
 
 <p align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0d0d0d)](https://www.linkedin.com/in/iftakher-uddin-rishad/)
-  [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0d0d0d)](https://www.facebook.com/Iftakheruddin.rishad/)
-  [![Facebook](https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0d0d0d)](https://www.facebook.com/Iftakheruddin.rishad/)
-  [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0d0d0d)](mailto:iu.rishad5@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&color=0d0d0d)](https://github.com/Rishad05)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=0d0d0d)](https://my-portfolio05.web.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0b0f14)](https://www.linkedin.com/in/iftakher-uddin-rishad/)
+  [![Instagram](https://img.shields.io/badge/Instagram-0b0f14?style=for-the-badge&logo=instagram&logoColor=E4405F&color=0b0f14)](https://www.facebook.com/Iftakheruddin.rishad/)
+  [![Facebook](https://img.shields.io/badge/Facebook-0b0f14?style=for-the-badge&logo=facebook&logoColor=1877F2&color=0b0f14)](https://www.facebook.com/Iftakheruddin.rishad/)
+  [![Gmail](https://img.shields.io/badge/Gmail-0b0f14?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0b0f14)](mailto:iu.rishad5@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=ffffff&color=0b0f14)](https://github.com/Rishad05)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=firebase&logoColor=FFCA28&color=0b0f14)](https://my-portfolio05.web.app/)
 
 </p>
 
 <p align="center">
   <a href="https://my-portfolio05.web.app/">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&color=d4af37&bgcolor=0d0d0d&qzone=3&data=https%3A%2F%2Fmy-portfolio05.web.app%2F" alt="Scan to visit my portfolio" />
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&color=22d3ee&bgcolor=0b0f14&qzone=3&data=https%3A%2F%2Fmy-portfolio05.web.app%2F" alt="Scan to visit my portfolio" />
   </a>
   <br />
   <samp>Scan me — the QR points to my live portfolio.</samp>
@@ -174,7 +174,7 @@
 
 <br />
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:d4af37,35:6b4a15,100:0d0d0d&reversal=false&rotate=-90)
+![Footer Wave](https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:22d3ee,35:0d5c78,100:0b0f14&reversal=false&rotate=-90)
 
 <p align="center">
   <samp>

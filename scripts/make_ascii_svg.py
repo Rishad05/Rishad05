@@ -26,15 +26,15 @@ import sys
 # Brightness -> character density ramp (sparse ' ' -> dense '@').
 RAMP = " .`:-=+*cs#%@"
 
-# Gold shading ramp (bright -> deep).
+# Cyan shading ramp (bright -> deep).
 GOLD_RAMP = [
-    ("#fbeeb6", "#fff6d8"),  # bright highlight
-    ("#f0d980", "#fff2c2"),
-    ("#e6c24f", "#ffecb0"),
-    ("#d4af37", "#ffd97a"),  # signature gold
-    ("#b68f2b", "#e9c256"),
-    ("#8f6f22", "#c09a38"),
-    ("#6f5620", "#8f6f27"),
+    ("#eafcff", "#cff7ff"),  # bright highlight
+    ("#b8f1ff", "#9dedff"),
+    ("#79e6fa", "#5dddf7"),
+    ("#22d3ee", "#3de0fb"),  # signature cyan
+    ("#12a8c9", "#1cc4e4"),
+    ("#0d7f9c", "#1196b8"),
+    ("#0b5c72", "#0c6985"),
 ]
 
 FONT_STACK = "JetBrains Mono, ui-monospace, Cascadia Code, Consolas, 'Courier New', monospace"
@@ -125,18 +125,18 @@ def main() -> int:
 
     parts.append(f"""<defs>
   <linearGradient id="cipherBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0d0d0d"/><stop offset="0.55" stop-color="#0a0a0c"/><stop offset="1" stop-color="#050506"/>
+    <stop offset="0" stop-color="#0b0f14"/><stop offset="0.55" stop-color="#080c11"/><stop offset="1" stop-color="#04060a"/>
   </linearGradient>
   <linearGradient id="cipherEdge" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#3f3f46"/><stop offset="0.5" stop-color="#6b5620"/><stop offset="1" stop-color="#3f3f46"/>
+    <stop offset="0" stop-color="#16303a"/><stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.65"/><stop offset="1" stop-color="#16303a"/>
   </linearGradient>
   <radialGradient id="subjectGlow" cx="0.5" cy="0.42" r="0.62">
-    <stop offset="0" stop-color="#d4af37" stop-opacity="0.16"/>
-    <stop offset="0.55" stop-color="#d4af37" stop-opacity="0.05"/>
+    <stop offset="0" stop-color="#22d3ee" stop-opacity="0.15"/>
+    <stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.05"/>
     <stop offset="1" stop-color="#000000" stop-opacity="0"/>
   </radialGradient>
   <linearGradient id="goldTitle" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#f0d980"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#f0d980"/>
+    <stop offset="0" stop-color="#b8f1ff"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#b8f1ff"/>
   </linearGradient>
   <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
     <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.7"/>
@@ -161,7 +161,7 @@ def main() -> int:
   <circle cx="{pad_x+17}" cy="{title_h*0.5}" r="5.2" fill="#febc2e"/>
   <circle cx="{pad_x+34}" cy="{title_h*0.5}" r="5.2" fill="#28c840"/>
   <text x="{pad_x+50}" y="{title_h*0.5+5}" font-family="{FONT_STACK}" font-size="{fs*1.25}px" font-weight="700"
-        fill="url(#goldTitle)" letter-spacing="3">The Cipher Stack</text>
+        fill="url(#goldTitle)" letter-spacing="3">Iftakher Uddin Rishad</text>
   <line x1="{pad_x}" y1="{title_h+2}" x2="{W-pad_x}" y2="{title_h+2}" stroke="#ffffff" stroke-opacity="0.06"/>
 </g>""")
 
@@ -203,8 +203,8 @@ CSS = r"""
 .fin { animation: fin .55s cubic-bezier(0.22, 1, 0.36, 1) both; }
 .svg--static .fin { animation: none; opacity: 1; }
 text { paint-order: stroke; }
-.g0 { fill: #fbeeb6; } .g1 { fill: #f0d980; } .g2 { fill: #e6c24f; }
-.g3 { fill: #d4af37; } .g4 { fill: #b68f2b; } .g5 { fill: #8f6f22; } .g6 { fill: #6f5620; }
+.g0 { fill: #eafcff; } .g1 { fill: #b8f1ff; } .g2 { fill: #79e6fa; }
+.g3 { fill: #22d3ee; } .g4 { fill: #12a8c9; } .g5 { fill: #0d7f9c; } .g6 { fill: #0b5c72; }
 """
 
 

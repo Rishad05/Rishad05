@@ -95,16 +95,16 @@ def main() -> int:
     )
     p.append(f"""<defs>
   <linearGradient id="icBg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#0d0d0d"/><stop offset="0.55" stop-color="#0a0a0c"/><stop offset="1" stop-color="#050506"/>
+    <stop offset="0" stop-color="#0b0f14"/><stop offset="0.55" stop-color="#080c11"/><stop offset="1" stop-color="#04060a"/>
   </linearGradient>
   <linearGradient id="icEdge" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#3f3f46"/><stop offset="0.5" stop-color="#6b5620"/><stop offset="1" stop-color="#3f3f46"/>
+    <stop offset="0" stop-color="#16303a"/><stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.6"/><stop offset="1" stop-color="#16303a"/>
   </linearGradient>
   <linearGradient id="icTitle" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#f0d980"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#f0d980"/>
+    <stop offset="0" stop-color="#b8f1ff"/><stop offset="0.5" stop-color="#22d3ee"/><stop offset="1" stop-color="#b8f1ff"/>
   </linearGradient>
   <linearGradient id="icAccentBar" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#d4af37"/><stop offset="1" stop-color="#2a2a30"/>
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#14323a"/>
   </linearGradient>
   <filter id="icShadow" x="-20%" y="-20%" width="140%" height="140%">
     <feDropShadow dx="0" dy="6" stdDeviation="14" flood-color="#000000" flood-opacity="0.7"/>
@@ -122,7 +122,7 @@ def main() -> int:
   <circle cx="{pad_x+17}" cy="{title_h*0.5}" r="5.2" fill="#febc2e"/>
   <circle cx="{pad_x+34}" cy="{title_h*0.5}" r="5.2" fill="#28c840"/>
   <text x="{pad_x+50}" y="{title_h*0.5+5}" font-family="{FONT_STACK}" font-size="{fs_val*1.2}px" font-weight="700"
-        fill="url(#icTitle)" letter-spacing="3">The Cipher Stack</text>
+        fill="url(#icTitle)" letter-spacing="3">Iftakher Uddin Rishad</text>
   <line x1="{pad_x}" y1="{title_h+2}" x2="{W-pad_x}" y2="{title_h+2}" stroke="#ffffff" stroke-opacity="0.06"/>
 </g>""")
 
@@ -144,9 +144,9 @@ def main() -> int:
     for i, (key, val, kind) in enumerate(DATA):
         y = top + (i + 1) * line_h
         dg = 0.30 + i * 0.085
-        key_col = "#d4af37"
+        key_col = "#22d3ee"
         if kind == "link":
-            key_col = "#e6c24f"
+            key_col = "#57dcf5"
         val_fill = "#c9c9d2" if kind != "link" else "#9fd3ff"
         p.append(f'<g class="icrow" style="animation-delay:{dg:.2f}s">')
         p.append(
@@ -162,7 +162,7 @@ def main() -> int:
     # Blinking block cursor on the last line.
     curb = top + (n + 1) * line_h - 2
     p.append(
-        f'<rect class="cursor" x="{pad_x + key_w - 14}" y="{curb - 14}" width="9" height="16" rx="1.5" fill="#d4af37"/>'
+        f'<rect class="cursor" x="{pad_x + key_w - 14}" y="{curb - 14}" width="9" height="16" rx="1.5" fill="#22d3ee"/>'
     )
 
     p.append("</svg>")
