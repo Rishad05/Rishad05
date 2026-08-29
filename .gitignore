@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local inputs / intermediates (your personal photo should not be committed)
+hero.png
+source-prepped.png
+
+# Local verification artifacts
+preview/
+Edge-svg-shot/
+
+# OS
+Thumbs.db
+.DS_Store
