@@ -4,52 +4,107 @@
 
 **Software Engineer · Full-Stack Developer · Problem Solver**
 
-`Dhaka, Bangladesh · git push --force with confidence`
+`Dhaka, Bangladesh`
 
-Building web applications, REST APIs, and business systems that ship to production — and stay maintainable afterwards.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&height=46&lines=Turning+complex+requirements+into+clean+software.;Web+applications,+REST+APIs,+business+systems.;Production-ready.+Maintainable.+Shipped." alt="Typing SVG — engineering tagline" />
 
-[![Open To Work](https://img.shields.io/badge/%E2%97%BE%20OPEN%20TO%20WORK-2ea44f?style=flat-square&labelColor=0b0f14&color=1f2328&logo=githubsponsors&logoColor=2ea44f)](mailto:iu.rishad5@gmail.com)
+<br/>
+
+[![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-2ea44f?style=flat-square&labelColor=0b0f14&color=1f2328&logo=githubsponsors&logoColor=2ea44f)](mailto:iu.rishad5@gmail.com)
 [![Location](https://img.shields.io/badge/Dhaka,_Bangladesh-0b0f14?style=flat-square&labelColor=0b0f14&logo=googlemaps&logoColor=22d3ee)](https://www.google.com/maps/place/Dhaka)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-22d3ee?style=flat-square&labelColor=0b0f14&color=22d3ee&logo=firebase&logoColor=0b0f14)](https://my-portfolio05.web.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=flat-square&labelColor=0b0f14&logo=github&logoColor=ffffff)](https://github.com/Rishad05)
+[![Followers](https://img.shields.io/github/followers/Rishad05?style=flat-square&color=22d3ee&labelColor=0b0f14&label=Followers&logo=github&logoColor=22d3ee)](https://github.com/Rishad05)
 [![Profile Views](https://komarev.com/ghpvc/?username=Rishad05&style=flat-square&color=22d3ee&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/Rishad05)
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-
-| | |
-| :-: | :-: |
-| <img src="./hxni-ascii.svg" width="350" alt="ASCII portrait of Iftakher Uddin Rishad" /> | <img src="./info-card.svg" width="470" alt="Terminal system information card" /> |
-
+  <img src="./hxni-ascii.svg" width="350" alt="ASCII portrait of Iftakher Uddin Rishad" />
 </div>
 
-<br />
+```text
+        ▄▀█ █░█ █▀█ █▀▄▀█    iftakher@cipher-stack
+        █▀█ █▄█ █▀█ █░█░█    ──────────────────────
+        ▀░▀ ░▀░ ▀░▀ ▀░▀░▀
 
----
+        os ......... void / cyber
+        host ....... Iftakher Uddin Rishad
+        role ....... Software Engineer
+        location... Dhaka, Bangladesh
+        frontend... React · TypeScript · Vite · Tailwind CSS · Bootstrap
+        backend.... PHP · Laravel · Node.js · Express.js · Prisma ORM
+        database... MySQL · PostgreSQL · REST APIs
+        tools...... Git · GitHub · Postman · VS Code · Vercel · Netlify
+        portfolio.. my-portfolio05.web.app
+        github..... github.com/Rishad05
+        contact.... iu.rishad5@gmail.com
+```
+
+<br/>
 
 ## About
 
 I build production software end to end — Laravel and Node.js services, REST API design, relational data modeling with MySQL and PostgreSQL, and the React + TypeScript interfaces that consume them.
 
-My work is mostly business-focused: HR systems, e-commerce platforms, and operational tooling that real teams depend on. I care about clean boundaries, readable code, and systems that behave predictably under real usage.
+Most of my work is business-focused: HR systems, e-commerce platforms, and operational tooling that teams depend on daily. I care about clean boundaries, readable code, and systems that behave predictably under real usage.
 
----
+<br/>
 
-## Engineering Focus
+## GitHub Stats
 
 <div align="center">
 
-| | |
-| :- | :- |
-| **Backend Engineering**<br/><samp>REST APIs · business logic · data flows on Laravel and Node.js.</samp> | **Frontend Engineering**<br/><samp>React + TypeScript interfaces, styled with Tailwind CSS or Bootstrap, bundled with Vite.</samp> |
-| **Data & Architecture**<br/><samp>Relational modeling, Prisma ORM, and API design behind production systems.</samp> | **Tools & Infrastructure**<br/><samp>Git · GitHub · Postman · VS Code — deploying to Vercel and Netlify.</samp> |
+<img src="https://github-readme-stats.vercel.app/api?username=Rishad05&show_icons=true&count_private=true&hide_title=true&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0b0f14&border_color=1a3a45&border_radius=12" width="410" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishad05&layout=compact&langs_count=8&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&bg_color=0b0f14&border_color=1a3a45&border_radius=12" width="350" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=Rishad05&theme=github-dark&hide_border=true&border_radius=12&stroke=1a3a45&ring=22d3ee&fire=22d3ee&currStreakNum=c9d1d9&sideNums=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&background=0b0f14" width="410" alt="GitHub streak" />
 
 </div>
 
----
+## Recent Activity
+
+<div align="center">
+
+<img src="./contrib-heatmap.svg" width="840" alt="Contribution heatmap for the last 365 days" />
+
+<br/>
+
+<img src="./output/github-snake-dark.svg" width="840" alt="Contribution snake animation" />
+
+<sub>Heatmap and snake auto-refresh daily via GitHub Actions.</sub>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,javascript,typescript&theme=dark" height="26" alt="PHP, JavaScript, TypeScript" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma&theme=dark" height="26" alt="Node.js, Express, Laravel, Prisma" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,bootstrap&theme=dark" height="26" alt="React, TypeScript, Vite, Tailwind, Bootstrap" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" height="26" alt="MySQL, PostgreSQL" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark" height="26" alt="Git, GitHub, VS Code, Postman, Vercel, Netlify" />
+
+</div>
+
+<br/>
 
 ## Selected Projects
 
@@ -57,43 +112,13 @@ My work is mostly business-focused: HR systems, e-commerce platforms, and operat
 
 | | |
 | :- | :- |
-| **HRM · Godrej Bangladesh**<br/><samp>Human resource management system for Godrej Bangladesh, delivered on a maintainable backend.</samp><br/><samp>Laravel · Node.js · REST APIs</samp><br/>[View Repository →](https://github.com/goldeninfotech/godrej-backend) | **E-Commerce · Shopilo**<br/><samp>E-commerce platform for Shopilo, covering the core storefront and commerce workflow.</samp><br/><samp>React · Laravel · REST APIs</samp><br/>[View Repository →](https://github.com/Rishad05/shopilo-ecom) |
-| **Desievent Go**<br/><samp>Backend for Desievent Go's event management workflows.</samp><br/><samp>Laravel · Node.js · MySQL</samp><br/>[View Repository →](https://github.com/DesiEventsGO/desieventsgo-backend) | **Fuel Pass**<br/><samp>Fuel distribution pass management backend.</samp><br/><samp>Laravel · MySQL · REST APIs</samp><br/>[View Repository →](https://github.com/goldeninfotech/fuel-pass-backend) |
-| **Moitri Somiti**<br/><samp>Platform managing co-operative society operations.</samp><br/><samp>Laravel · MySQL · REST APIs</samp><br/>[View Repository →](https://github.com/goldeninfotech/moitri) | |
+| **HRM · Godrej Bangladesh**<br/><sub>Human resource management system for Godrej Bangladesh.</sub><br/><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql&theme=dark" height="24" alt="HRM stack" /><br/>[View Repository →](https://github.com/goldeninfotech/godrej-backend) | **E-Commerce · Shopilo**<br/><sub>E-commerce platform for Shopilo.</sub><br/><img src="https://skillicons.dev/icons?i=react,typescript,laravel,nodejs&theme=dark" height="24" alt="Shopilo stack" /><br/>[View Repository →](https://github.com/Rishad05/shopilo-ecom) |
+| **Desievent Go**<br/><sub>Backend for Desievent Go event management.</sub><br/><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql&theme=dark" height="24" alt="Desievent backend stack" /><br/>[View Repository →](https://github.com/DesiEventsGO/desieventsgo-backend) | **Fuel Pass**<br/><sub>Fuel distribution pass management backend.</sub><br/><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql&theme=dark" height="24" alt="Fuel Pass stack" /><br/>[View Repository →](https://github.com/goldeninfotech/fuel-pass-backend) |
+| **Moitri Somiti**<br/><sub>Co-operative society management platform.</sub><br/><img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark" height="24" alt="Moitri stack" /><br/>[View Repository →](https://github.com/goldeninfotech/moitri) | |
 
 </div>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="./contrib-heatmap.svg" width="840" alt="Contribution heatmap for the last 365 days" />
-
-<sub>Auto-refreshed daily by GitHub Actions — no API key required.</sub>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages** &nbsp;·&nbsp; <samp>PHP · JavaScript · TypeScript · SQL</samp>
-
-**Backend** &nbsp;·&nbsp; <samp>Laravel · Node.js · Express.js · Prisma ORM · REST APIs</samp>
-
-**Frontend** &nbsp;·&nbsp; <samp>React · TypeScript · Vite · Tailwind CSS · Bootstrap</samp>
-
-**Databases** &nbsp;·&nbsp; <samp>MySQL · PostgreSQL</samp>
-
-**Tools** &nbsp;·&nbsp; <samp>Git · GitHub · VS Code · Postman · Vercel · Netlify</samp>
-
-</div>
-
----
+<br/>
 
 ## Currently Building
 
@@ -103,20 +128,17 @@ My work is mostly business-focused: HR systems, e-commerce platforms, and operat
 | E-commerce systems for Shopilo | Go for high-throughput backend services | API-first thinking |
 | Business automation platforms | Cloud infrastructure | Terminal-first workflows |
 
----
+<br/>
 
 ## Achievements
 
 <div align="center">
 
-[![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-c71585?style=flat-square&labelColor=0b0f14&color=c71585&logo=github&logoColor=c71585)](https://github.com/Rishad05)
-[![Pull Shark](https://img.shields.io/badge/Pull_Shark-a371f7?style=flat-square&labelColor=0b0f14&color=a371f7&logo=github&logoColor=a371f7)](https://github.com/Rishad05)
-[![YOLO](https://img.shields.io/badge/YOLO-ff0000?style=flat-square&labelColor=0b0f14&color=ff0000&logo=github&logoColor=ff0000)](https://github.com/Rishad05)
-[![Starstruck](https://img.shields.io/badge/Starstruck-d4af37?style=flat-square&labelColor=0b0f14&color=d4af37&logo=github&logoColor=d4af37)](https://github.com/Rishad05)
+<img src="https://github-profile-trophy.vercel.app/?username=Rishad05&theme=algolia&no-bg=true&no-frame=true&row=1&column=4&margin-w=10&margin-h=10" width="680" alt="GitHub profile trophies" />
 
 </div>
 
----
+<br/>
 
 ## Let's Connect
 
@@ -129,9 +151,9 @@ My work is mostly business-focused: HR systems, e-commerce platforms, and operat
 [![GitHub](https://img.shields.io/badge/GitHub-0b0f14?style=flat-square&labelColor=0b0f14&logo=github&logoColor=ffffff)](https://github.com/Rishad05)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22d3ee?style=flat-square&labelColor=0b0f14&color=22d3ee&logo=firebase&logoColor=0b0f14)](https://my-portfolio05.web.app/)
 
-Prefer a direct conversation? Reach me at **[iu.rishad5@gmail.com](mailto:iu.rishad5@gmail.com)** or book a look at my [portfolio](https://my-portfolio05.web.app/).
-
 </div>
+
+<br/>
 
 ---
 
